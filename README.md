@@ -42,6 +42,7 @@ Note: Index and error documents can be written out however way you like. I am ju
 3. Next upload a folder of images by selecting `Add folder`. 
 
 ### All set!
+Check out my website!
 <details>
   <summary>:zap:http://static-website-test-git.s3-website-us-east-1.amazonaws.com</summary>
   <p>
