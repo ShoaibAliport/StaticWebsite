@@ -36,7 +36,27 @@ These steps will show you how to create a static website utilizing the functions
   
 Note: Index and error documents can be written out however way you like. I am just showing the concept of how it looks.
 
+### Upload files
+1. Navigate back to your S3 bucket and click `Upload`.
+2. Click `Add files` and upload your index and error documents. 
+3. Next upload a folder of images by selecting `Add folder`. 
 
+### All set!
+<details>
+  <summary>:zap:http://static-website-test-git.s3-website-us-east-1.amazonaws.com</summary>
+  <p>
+      
+  [![static-website-page.png](https://i.postimg.cc/tRKXCL4d/static-website-page.png)](https://postimg.cc/RqTrgpfq)
+  </p>
+  </details>
+
+ <details>
+  <summary>:zap:http://static-website-test-git.s3-website-us-east-1.amazonaws.com/errorpage</summary>
+   <p>
+       
+   [![static-website-error-page.png](https://i.postimg.cc/d37zKtCM/static-website-error-page.png)](https://postimg.cc/hQBCLnMM)
+   </p>
+   </details>
 
 
  
