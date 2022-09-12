@@ -1,4 +1,4 @@
-# Creating a static webiste using Amazon S3
+# Creating a static website using Amazon S3
 # Description
 These steps will show you how to create a static website utilizing the functions of an S3 bucket and a text editor (Atom).  
 # Steps
