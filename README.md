@@ -11,3 +11,4 @@ These steps will show you how to create a static website utilizing the functions
 
 ### Creating index and error documents
 1. Using Atom, or any other text editor, create an index document like the one seen below. 
+[![error-html.png](https://i.postimg.cc/GtFjZ9Q5/error-html.png)](https://postimg.cc/y3N9R12m)
